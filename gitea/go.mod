@@ -1,5 +1,4 @@
-module code.gitea.io/sdk/gitea
-
+module github.com/whybeyoung/gitea-sdk
 go 1.13
 
 require (
